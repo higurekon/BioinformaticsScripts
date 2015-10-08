@@ -1,0 +1,117 @@
+From	To	Species	Gene Name
+TMX1	uc007ntu.1	Mus musculus	thioredoxin-related transmembrane protein 1
+TMX1	uc001wza.3	Homo sapiens	thioredoxin-related transmembrane protein 1
+TMX1	uc010tqr.1	Homo sapiens	thioredoxin-related transmembrane protein 1
+TMX1	uc010aoa.2	Homo sapiens	thioredoxin-related transmembrane protein 1
+UGCG	uc004bft.2	Homo sapiens	UDP-glucose ceramide glucosyltransferase
+UGCG	uc008szr.1	Mus musculus	UDP-glucose ceramide glucosyltransferase
+UGCG	uc008szs.1	Mus musculus	UDP-glucose ceramide glucosyltransferase
+PDIA4	uc009btf.1	Mus musculus	protein disulfide isomerase associated 4
+PDIA4	uc003wff.2	Homo sapiens	protein disulfide isomerase family A, member 4
+SIRPA	uc002wft.2	Homo sapiens	signal-regulatory protein alpha
+SIRPA	uc010zps.1	Homo sapiens	signal-regulatory protein alpha
+SIRPA	uc002wfq.2	Homo sapiens	signal-regulatory protein alpha
+SIRPA	uc002wfr.2	Homo sapiens	signal-regulatory protein alpha
+SIRPA	uc002wfs.2	Homo sapiens	signal-regulatory protein alpha
+SIRPA	uc008mia.1	Mus musculus	signal-regulatory protein alpha
+SIRPA	uc008mhz.1	Mus musculus	signal-regulatory protein alpha
+SIRPA	uc008mib.1	Mus musculus	signal-regulatory protein alpha
+CBX6	uc003awl.2	Homo sapiens	chromobox homolog 6
+CBX6	uc003awm.1	Homo sapiens	chromobox homolog 6
+CBX6	uc007wum.1	Mus musculus	chromobox homolog 6; neuronal pentraxin receptor; Cbx6-Nptxr readthrough transcripts
+CBX6	uc007wuo.1	Mus musculus	chromobox homolog 6; neuronal pentraxin receptor; Cbx6-Nptxr readthrough transcripts
+CBX6	uc007wup.1	Mus musculus	chromobox homolog 6; neuronal pentraxin receptor; Cbx6-Nptxr readthrough transcripts
+CBX6	uc007wun.1	Mus musculus	chromobox homolog 6; neuronal pentraxin receptor; Cbx6-Nptxr readthrough transcripts
+CBX6	uc007wul.1	Mus musculus	chromobox homolog 6; neuronal pentraxin receptor; Cbx6-Nptxr readthrough transcripts
+IDH3A	uc010umt.1	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc010umv.1	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc010umu.1	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc002bdf.2	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc002bde.2	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc002bdg.2	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc002bdd.2	Homo sapiens	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc009pri.1	Mus musculus	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc009prg.1	Mus musculus	isocitrate dehydrogenase 3 (NAD+) alpha
+IDH3A	uc009prh.1	Mus musculus	isocitrate dehydrogenase 3 (NAD+) alpha
+OFD1	uc009uwr.1	Mus musculus	oral-facial-digital syndrome 1 gene homolog (human)
+OFD1	uc004cvq.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc010neo.1	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc004cvu.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc010nen.2	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc004cvv.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc004cvp.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc004cvs.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc004cvr.3	Homo sapiens	oral-facial-digital syndrome 1
+OFD1	uc011mil.1	Homo sapiens	oral-facial-digital syndrome 1
+MAGED1	uc009ttn.1	Mus musculus	melanoma antigen, family D, 1
+MAGED1	uc004dpm.2	Homo sapiens	melanoma antigen family D, 1
+MAGED1	uc004dpo.2	Homo sapiens	melanoma antigen family D, 1
+MAGED1	uc004dpn.2	Homo sapiens	melanoma antigen family D, 1
+MAGED1	uc011mnx.1	Homo sapiens	melanoma antigen family D, 1
+DAB2	uc007vde.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc007vdc.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc007vdg.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc007vdb.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc007vdf.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc007vdd.1	Mus musculus	disabled homolog 2 (Drosophila)
+DAB2	uc003jlx.2	Homo sapiens	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)
+DAB2	uc003jlw.2	Homo sapiens	disabled homolog 2, mitogen-responsive phosphoprotein (Drosophila)
+ZDHHC17	uc001syj.2	Homo sapiens	zinc finger, DHHC-type containing 17
+ZDHHC17	uc001syk.1	Homo sapiens	zinc finger, DHHC-type containing 17
+ZDHHC17	uc001syi.1	Homo sapiens	zinc finger, DHHC-type containing 17
+ZDHHC17	uc007gzw.1	Mus musculus	zinc finger, DHHC domain containing 17
+ZDHHC17	uc007gzv.1	Mus musculus	zinc finger, DHHC domain containing 17
+ZDHHC17	uc007gzt.1	Mus musculus	zinc finger, DHHC domain containing 17
+ZDHHC17	uc007gzu.1	Mus musculus	zinc finger, DHHC domain containing 17
+DDX17	uc007wtp.1	Mus musculus	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc007wts.1	Mus musculus	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc007wtt.1	Mus musculus	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc007wtr.1	Mus musculus	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc007wtq.1	Mus musculus	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc003avy.3	Homo sapiens	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc010gxp.2	Homo sapiens	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc003avx.3	Homo sapiens	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc011anu.1	Homo sapiens	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+DDX17	uc003avw.3	Homo sapiens	DEAD (Asp-Glu-Ala-Asp) box polypeptide 17
+TMED2	uc001ufg.2	Homo sapiens	transmembrane emp24 domain trafficking protein 2
+TMED2	uc008zqb.1	Mus musculus	transmembrane emp24 domain trafficking protein 2; predicted gene 10698; predicted gene 7318
+TMED2	uc008zqa.1	Mus musculus	transmembrane emp24 domain trafficking protein 2; predicted gene 10698; predicted gene 7318
+NUCB2	uc009yha.2	Homo sapiens	nucleobindin 2
+NUCB2	uc001mmv.1	Homo sapiens	nucleobindin 2
+NUCB2	uc001mms.1	Homo sapiens	nucleobindin 2
+NUCB2	uc009ygw.1	Homo sapiens	nucleobindin 2
+NUCB2	uc009ygz.2	Homo sapiens	nucleobindin 2
+NUCB2	uc009ygx.1	Homo sapiens	nucleobindin 2
+NUCB2	uc001mmw.2	Homo sapiens	nucleobindin 2
+NUCB2	uc009ygy.1	Homo sapiens	nucleobindin 2
+NUCB2	uc001mmx.3	Homo sapiens	nucleobindin 2
+NUCB2	uc001mmt.1	Homo sapiens	nucleobindin 2
+NUCB2	uc009jjj.1	Mus musculus	nucleobindin 2
+NUCB2	uc009jjk.1	Mus musculus	nucleobindin 2
+SPCS3	uc003iur.3	Homo sapiens	signal peptidase complex subunit 3 homolog (S. cerevisiae)
+SPCS3	uc009lsd.1	Mus musculus	signal peptidase complex subunit 3 homolog (S. cerevisiae)
+OGT	uc004eaa.1	Homo sapiens	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc011mpw.1	Homo sapiens	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc004ead.2	Homo sapiens	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc004eab.1	Homo sapiens	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc004eac.2	Homo sapiens	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc009tya.1	Mus musculus	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc009tyd.1	Mus musculus	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc009tyc.1	Mus musculus	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc009tyb.1	Mus musculus	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+OGT	uc009txz.1	Mus musculus	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)
+HIGD1A	uc003cmb.3	Homo sapiens	similar to HIG1 domain family, member 1A; HIG1 hypoxia inducible domain family, member 1A; HIG1 hypoxia inducible domain family, member 1D
+HIGD1A	uc010hid.2	Homo sapiens	similar to HIG1 domain family, member 1A; HIG1 hypoxia inducible domain family, member 1A; HIG1 hypoxia inducible domain family, member 1D
+HIGD1A	uc003cma.3	Homo sapiens	similar to HIG1 domain family, member 1A; HIG1 hypoxia inducible domain family, member 1A; HIG1 hypoxia inducible domain family, member 1D
+HIGD1A	uc009sec.1	Mus musculus	HIG1 domain family, member 1A
+HIGD1A	uc009seb.1	Mus musculus	HIG1 domain family, member 1A
+IL3RA	uc007sgm.1	Mus musculus	interleukin 3 receptor, alpha chain
+IL3RA	uc011nak.1	Homo sapiens	interleukin 3 receptor, alpha (low affinity)
+IL3RA	uc011mhd.1	Homo sapiens	interleukin 3 receptor, alpha (low affinity)
+IL3RA	uc004fpf.2	Homo sapiens	interleukin 3 receptor, alpha (low affinity)
+IL3RA	uc004cps.2	Homo sapiens	interleukin 3 receptor, alpha (low affinity)
+SERTAD2	uc007idd.1	Mus musculus	SERTA domain containing 2
+SERTAD2	uc007idc.1	Mus musculus	SERTA domain containing 2
+SERTAD2	uc007ide.1	Mus musculus	SERTA domain containing 2
+SERTAD2	uc007idf.1	Mus musculus	SERTA domain containing 2
+SERTAD2	uc002sde.1	Homo sapiens	SERTA domain containing 2

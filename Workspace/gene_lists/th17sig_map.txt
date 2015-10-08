@@ -1,0 +1,131 @@
+MAF	uc002ffn.2	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+MAF	uc002ffm.2	Homo sapiens	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)
+MAF	uc009nof.1	Mus musculus	similar to c-Maf long form; avian musculoaponeurotic fibrosarcoma (v-maf) AS42 oncogene homolog
+MAF	uc009noe.1	Mus musculus	similar to c-Maf long form; avian musculoaponeurotic fibrosarcoma (v-maf) AS42 oncogene homolog
+IL3	uc003kwe.1	Homo sapiens	interleukin 3 (colony-stimulating factor, multiple)
+IL3	uc007ixn.1	Mus musculus	interleukin 3
+CSF2	uc007ixm.1	Mus musculus	colony stimulating factor 2 (granulocyte-macrophage)
+CSF2	uc003kwf.2	Homo sapiens	colony stimulating factor 2 (granulocyte-macrophage)
+CCL3	uc002hkv.2	Homo sapiens	chemokine (C-C motif) ligand 3
+CCL3	uc007kpo.1	Mus musculus	chemokine (C-C motif) ligand 3
+CCL3	uc007kpn.1	Mus musculus	chemokine (C-C motif) ligand 3
+IKZF3	uc007lgn.1	Mus musculus	IKAROS family zinc finger 3
+IKZF3	uc007lgl.1	Mus musculus	IKAROS family zinc finger 3
+IKZF3	uc007lgm.1	Mus musculus	IKAROS family zinc finger 3
+IKZF3	uc010wel.1	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsy.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002htd.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc010cwd.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsv.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsx.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hta.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsw.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc010cwe.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsz.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc010cwh.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002hsu.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002htb.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc010cwg.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc002htc.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+IKZF3	uc010cwf.2	Homo sapiens	IKAROS family zinc finger 3 (Aiolos)
+LGALS3	uc007tia.1	Mus musculus	lectin, galactose binding, soluble 3
+LGALS3	uc007tic.1	Mus musculus	lectin, galactose binding, soluble 3
+LGALS3	uc007tib.1	Mus musculus	lectin, galactose binding, soluble 3
+LGALS3	uc001xbr.2	Homo sapiens	lectin, galactoside-binding, soluble, 3
+IL6ST	uc011cqk.1	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc003jqr.2	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc010iwe.1	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc010iwf.1	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc003jqq.2	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc010iwd.2	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc010iwb.2	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc010iwc.2	Homo sapiens	interleukin 6 signal transducer (gp130, oncostatin M receptor)
+IL6ST	uc007rwg.1	Mus musculus	interleukin 6 signal transducer
+IL6ST	uc007rwf.1	Mus musculus	interleukin 6 signal transducer
+CXCL3	uc003hhl.2	Homo sapiens	chemokine (C-X-C motif) ligand 3
+CXCL3	uc008ybj.1	Mus musculus	chemokine (C-X-C motif) ligand 3
+TBX21	uc007ldr.1	Mus musculus	T-box 21
+TBX21	uc002ilv.1	Homo sapiens	T-box 21
+IL1RN	uc008iov.1	Mus musculus	interleukin 1 receptor antagonist
+IL1RN	uc008iow.1	Mus musculus	interleukin 1 receptor antagonist
+IL1RN	uc008iox.1	Mus musculus	interleukin 1 receptor antagonist
+IL1RN	uc002tix.1	Homo sapiens	interleukin 1 receptor antagonist
+IL1RN	uc002tjb.2	Homo sapiens	interleukin 1 receptor antagonist
+IL1RN	uc002tja.2	Homo sapiens	interleukin 1 receptor antagonist
+IL1RN	uc002tiz.2	Homo sapiens	interleukin 1 receptor antagonist
+IL1RN	uc002tiy.2	Homo sapiens	interleukin 1 receptor antagonist
+IL9	uc007qso.1	Mus musculus	interleukin 9
+IL9	uc003lbb.1	Homo sapiens	interleukin 9
+GZMB	uc007ubv.1	Mus musculus	granzyme B
+GZMB	uc001wps.2	Homo sapiens	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)
+GZMB	uc010ama.2	Homo sapiens	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)
+GZMB	uc010amb.2	Homo sapiens	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)
+IL7R	uc011coo.1	Homo sapiens	interleukin 7 receptor
+IL7R	uc011cop.1	Homo sapiens	interleukin 7 receptor
+IL7R	uc003jjs.2	Homo sapiens	interleukin 7 receptor
+IL7R	uc007vfp.1	Mus musculus	interleukin 7 receptor
+IL7R	uc007vfo.1	Mus musculus	interleukin 7 receptor
+CCL5	uc002hkf.2	Homo sapiens	chemokine (C-C motif) ligand 5
+CCL5	uc007kpi.1	Mus musculus	chemokine (C-C motif) ligand 5
+IL22	uc007hdw.1	Mus musculus	interleukin 10-related T cell-derived inducible factor beta; interleukin 22
+IL22	uc007hdx.1	Mus musculus	interleukin 10-related T cell-derived inducible factor beta; interleukin 22
+IL22	uc007hdv.1	Mus musculus	interleukin 10-related T cell-derived inducible factor beta; interleukin 22
+IL22	uc010stb.1	Homo sapiens	interleukin 22
+IL22	uc001sty.1	Homo sapiens	interleukin 22
+CCL4	uc002hkx.1	Homo sapiens	chemokine (C-C motif) ligand 4
+CCL4	uc002hkw.1	Homo sapiens	chemokine (C-C motif) ligand 4
+CCL4	uc007kpp.1	Mus musculus	chemokine (C-C motif) ligand 4
+AHR	uc007nji.1	Mus musculus	aryl-hydrocarbon receptor
+AHR	uc003stt.3	Homo sapiens	aryl hydrocarbon receptor
+AHR	uc011jxz.1	Homo sapiens	aryl hydrocarbon receptor
+IL10	uc001hen.1	Homo sapiens	interleukin 10
+IL10	uc009xbx.2	Homo sapiens	interleukin 10
+IL10	uc007cmu.1	Mus musculus	interleukin 10
+STAT4	uc010zgo.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgm.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgl.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgk.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usp.3	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usm.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgn.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002uso.2	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usn.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc007axw.1	Mus musculus	signal transducer and activator of transcription 4
+STAT4	uc007axx.1	Mus musculus	signal transducer and activator of transcription 4
+ICOS	uc007bfb.1	Mus musculus	inducible T-cell co-stimulator; similar to activation-inducible lymphocyte immunomediatory molecule AILIM
+ICOS	uc010zip.1	Homo sapiens	inducible T-cell co-stimulator
+ICOS	uc010fua.2	Homo sapiens	inducible T-cell co-stimulator
+ICOS	uc002vam.2	Homo sapiens	inducible T-cell co-stimulator
+LRMP	uc010sjc.1	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc001rgh.2	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc001rgg.1	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc010sjb.1	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc010sja.1	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc010sjd.1	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc001rgi.2	Homo sapiens	lymphoid-restricted membrane protein
+LRMP	uc009eqv.1	Mus musculus	lymphoid-restricted membrane protein
+LRMP	uc009era.1	Mus musculus	lymphoid-restricted membrane protein
+LRMP	uc009eqz.1	Mus musculus	lymphoid-restricted membrane protein
+LRMP	uc009eqw.1	Mus musculus	lymphoid-restricted membrane protein
+LRMP	uc009eqy.1	Mus musculus	lymphoid-restricted membrane protein
+LRMP	uc009eqx.1	Mus musculus	lymphoid-restricted membrane protein
+CASP1	uc009obr.1	Mus musculus	caspase 1; hypothetical protein LOC100044207
+CASP1	uc001pig.2	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvf.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvl.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rve.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvk.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc001pim.3	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc001pik.2	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc009yxi.2	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvg.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc009yxj.2	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvh.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvi.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+CASP1	uc010rvj.1	Homo sapiens	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)
+LAG3	uc001qqs.2	Homo sapiens	lymphocyte-activation gene 3
+LAG3	uc001qqu.2	Homo sapiens	lymphocyte-activation gene 3
+LAG3	uc001qqt.3	Homo sapiens	lymphocyte-activation gene 3
+LAG3	uc009dsl.1	Mus musculus	lymphocyte-activation gene 3
+RORgT	uc001ezg.2
+RORg	uc001ezh.2

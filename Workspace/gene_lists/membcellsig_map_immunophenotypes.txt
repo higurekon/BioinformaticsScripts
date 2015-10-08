@@ -1,0 +1,82 @@
+From	To	Species	Gene Name
+FCER1A	uc007dre.1	Mus musculus	Fc receptor, IgE, high affinity I, alpha polypeptide
+FCER1A	uc001ftq.2	Homo sapiens	Fc fragment of IgE, high affinity I, receptor for; alpha polypeptide
+ENPP1	uc003qcy.2	Homo sapiens	ectonucleotide pyrophosphatase/phosphodiesterase 1
+ENPP1	uc011ecf.1	Homo sapiens	ectonucleotide pyrophosphatase/phosphodiesterase 1
+ENPP1	uc007eqz.1	Mus musculus	ectonucleotide pyrophosphatase/phosphodiesterase 1
+ENPP1	uc007eqx.1	Mus musculus	ectonucleotide pyrophosphatase/phosphodiesterase 1
+ENPP1	uc007eqy.1	Mus musculus	ectonucleotide pyrophosphatase/phosphodiesterase 1
+STAT5A	uc007lmm.1	Mus musculus	signal transducer and activator of transcription 5A
+STAT5A	uc007lmn.1	Mus musculus	signal transducer and activator of transcription 5A
+STAT5A	uc007lml.1	Mus musculus	signal transducer and activator of transcription 5A
+STAT5A	uc010cya.1	Homo sapiens	signal transducer and activator of transcription 5A
+STAT5A	uc010cye.1	Homo sapiens	signal transducer and activator of transcription 5A
+STAT5A	uc010cyb.1	Homo sapiens	signal transducer and activator of transcription 5A
+STAT5A	uc002hzj.1	Homo sapiens	signal transducer and activator of transcription 5A
+STAT5A	uc010cyc.1	Homo sapiens	signal transducer and activator of transcription 5A
+STAT5A	uc010cyd.1	Homo sapiens	signal transducer and activator of transcription 5A
+SORL1	uc009pap.1	Mus musculus	similar to sortilin-related receptor, LDLR class A repeats-containing; sortilin-related receptor, LDLR class A repeats-containing
+SORL1	uc010rzp.1	Homo sapiens	sortilin-related receptor, L(DLR class) A repeats-containing
+SORL1	uc010rzq.1	Homo sapiens	sortilin-related receptor, L(DLR class) A repeats-containing
+SORL1	uc001pxx.2	Homo sapiens	sortilin-related receptor, L(DLR class) A repeats-containing
+STAT5B	uc002hzh.2	Homo sapiens	signal transducer and activator of transcription 5B
+STAT5B	uc002hzi.3	Homo sapiens	signal transducer and activator of transcription 5B
+STAT5B	uc007lmi.1	Mus musculus	signal transducer and activator of transcription 5B
+STAT5B	uc007lmj.1	Mus musculus	signal transducer and activator of transcription 5B
+STAT5B	uc007lmk.1	Mus musculus	signal transducer and activator of transcription 5B
+SOX5	uc001rfx.2	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc010siv.1	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc001rfy.2	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc010siw.1	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc001rga.2	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc001rfz.1	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc001rfw.2	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc001rfv.2	Homo sapiens	SRY (sex determining region Y)-box 5
+SOX5	uc009eqq.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqo.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqj.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eql.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqm.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqn.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqk.1	Mus musculus	SRY-box containing gene 5
+SOX5	uc009eqp.1	Mus musculus	SRY-box containing gene 5
+CDKN3	uc001xar.2	Homo sapiens	cyclin-dependent kinase inhibitor 3
+CDKN3	uc010aoi.1	Homo sapiens	cyclin-dependent kinase inhibitor 3
+CDKN3	uc010aoj.1	Homo sapiens	cyclin-dependent kinase inhibitor 3
+CDKN3	uc001xas.1	Homo sapiens	cyclin-dependent kinase inhibitor 3
+CDKN3	uc001xap.2	Homo sapiens	cyclin-dependent kinase inhibitor 3
+CDKN3	uc001xaq.2	Homo sapiens	cyclin-dependent kinase inhibitor 3
+FCRL4	uc010phy.1	Homo sapiens	Fc receptor-like 4
+FCRL4	uc001fqw.2	Homo sapiens	Fc receptor-like 4
+TLR9	uc003ddb.2	Homo sapiens	toll-like receptor 9
+TLR9	uc003dda.1	Homo sapiens	toll-like receptor 9
+TLR9	uc003ddc.1	Homo sapiens	toll-like receptor 9
+TLR9	uc009rjh.1	Mus musculus	toll-like receptor 9
+AICDA	uc001quq.1	Homo sapiens	activation-induced cytidine deaminase
+AICDA	uc001qup.1	Homo sapiens	activation-induced cytidine deaminase
+AICDA	uc009zgd.1	Homo sapiens	activation-induced cytidine deaminase
+AICDA	uc001qur.2	Homo sapiens	activation-induced cytidine deaminase
+AICDA	uc009dpj.1	Mus musculus	activation-induced cytidine deaminase
+CCNA2	uc008ozo.1	Mus musculus	cyclin A2
+CCNA2	uc003iec.3	Homo sapiens	cyclin A2
+RUNX2	uc011dvx.1	Homo sapiens	runt-related transcription factor 2
+RUNX2	uc003oxt.2	Homo sapiens	runt-related transcription factor 2
+RUNX2	uc011dvy.1	Homo sapiens	runt-related transcription factor 2
+RUNX2	uc003oxs.1	Homo sapiens	runt-related transcription factor 2
+RUNX2	uc008cqi.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cqb.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cpy.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cqd.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cqa.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cpz.1	Mus musculus	runt related transcription factor 2
+RUNX2	uc008cqc.1	Mus musculus	runt related transcription factor 2
+MYC	uc003ysi.2	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog (avian)
+MYC	uc003ysh.1	Homo sapiens	v-myc myelocytomatosis viral oncogene homolog (avian)
+MYC	uc007vyg.1	Mus musculus	myelocytomatosis oncogene
+MYC	uc007vyh.1	Mus musculus	myelocytomatosis oncogene
+MYC	uc007vyi.1	Mus musculus	myelocytomatosis oncogene
+CLCN5	uc004doq.1	Homo sapiens	chloride channel 5
+CLCN5	uc004dot.1	Homo sapiens	chloride channel 5
+CLCN5	uc004dos.1	Homo sapiens	chloride channel 5
+CLCN5	uc004dor.1	Homo sapiens	chloride channel 5
+CLCN5	uc009sle.1	Mus musculus	chloride channel 5

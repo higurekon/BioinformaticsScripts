@@ -1,0 +1,120 @@
+From	To	Species	Gene Name
+MPZL1	uc007djg.1	Mus musculus	myelin protein zero-like 1
+MPZL1	uc007dji.1	Mus musculus	myelin protein zero-like 1
+MPZL1	uc007djh.1	Mus musculus	myelin protein zero-like 1
+MPZL1	uc001geq.2	Homo sapiens	myelin protein zero-like 1
+MPZL1	uc001gep.2	Homo sapiens	myelin protein zero-like 1
+MPZL1	uc001geo.2	Homo sapiens	myelin protein zero-like 1
+MPZL1	uc001gen.3	Homo sapiens	myelin protein zero-like 1
+MPZL1	uc009wvh.2	Homo sapiens	myelin protein zero-like 1
+MRPS16	uc007sjp.1	Mus musculus	mitochondrial ribosomal protein S16; predicted gene 9173
+MRPS16	uc001jts.1	Homo sapiens	mitochondrial ribosomal protein S16
+MRPS16	uc010qkh.1	Homo sapiens	mitochondrial ribosomal protein S16
+MRPS16	uc001jtt.1	Homo sapiens	mitochondrial ribosomal protein S16
+C1GALT1C1	uc004esz.2	Homo sapiens	C1GALT1-specific chaperone 1
+C1GALT1C1	uc004esy.2	Homo sapiens	C1GALT1-specific chaperone 1
+C1GALT1C1	uc009tag.1	Mus musculus	C1GALT1-specific chaperone 1
+CETN3	uc003kjo.2	Homo sapiens	centrin, EF-hand protein, 3 (CDC31 homolog, yeast)
+CETN3	uc007rid.1	Mus musculus	centrin 3
+KIAA0101	uc002ank.2	Homo sapiens	KIAA0101
+KIAA0101	uc002anl.2	Homo sapiens	KIAA0101
+MND1	uc003ink.1	Homo sapiens	meiotic nuclear divisions 1 homolog (S. cerevisiae)
+MND1	uc008ppv.1	Mus musculus	meiotic nuclear divisions 1 homolog (S. cerevisiae); predicted gene 3833; similar to Meiotic nuclear divisions 1 homolog (S. cerevisiae)
+TIMM13	uc007gfi.1	Mus musculus	translocase of inner mitochondrial membrane 13 homolog (yeast)
+TIMM13	uc002lvx.1	Homo sapiens	translocase of inner mitochondrial membrane 13 homolog (yeast)
+GAL	uc001oob.2	Homo sapiens	galanin prepropeptide
+GAL	uc008fwj.1	Mus musculus	galanin
+PTRH2	uc007ksy.1	Mus musculus	peptidyl-tRNA hydrolase 2
+PTRH2	uc007ksz.1	Mus musculus	peptidyl-tRNA hydrolase 2
+PTRH2	uc002ixt.2	Homo sapiens	peptidyl-tRNA hydrolase 2
+PTRH2	uc002ixs.2	Homo sapiens	peptidyl-tRNA hydrolase 2
+TIMM8B	uc009pjw.1	Mus musculus	translocase of inner mitochondrial membrane 8 homolog b (yeast)
+TIMM8B	uc009pjx.1	Mus musculus	translocase of inner mitochondrial membrane 8 homolog b (yeast)
+TIMM8B	uc001pmy.2	Homo sapiens	similar to translocase of inner mitochondrial membrane 8 homolog B; translocase of inner mitochondrial membrane 8 homolog B (yeast)
+TIMM8B	uc001pmx.2	Homo sapiens	similar to translocase of inner mitochondrial membrane 8 homolog B; translocase of inner mitochondrial membrane 8 homolog B (yeast)
+TK1	uc007mnz.1	Mus musculus	predicted gene 6091; thymidine kinase 1
+TK1	uc002jux.2	Homo sapiens	thymidine kinase 1, soluble
+TK1	uc002juw.2	Homo sapiens	thymidine kinase 1, soluble
+RFC5	uc008zfs.1	Mus musculus	replication factor C (activator 1) 5; similar to replication factor C 5
+RFC5	uc008zft.1	Mus musculus	replication factor C (activator 1) 5; similar to replication factor C 5
+RFC5	uc010syy.1	Homo sapiens	replication factor C (activator 1) 5, 36.5kDa
+RFC5	uc010syx.1	Homo sapiens	replication factor C (activator 1) 5, 36.5kDa
+RFC5	uc009zwr.2	Homo sapiens	replication factor C (activator 1) 5, 36.5kDa
+RFC5	uc001twq.2	Homo sapiens	replication factor C (activator 1) 5, 36.5kDa
+RFC5	uc010syz.1	Homo sapiens	replication factor C (activator 1) 5, 36.5kDa
+ADRM1	uc008oin.1	Mus musculus	adhesion regulating molecule 1; similar to Adhesion regulating molecule 1; predicted gene 9774
+ADRM1	uc008oio.1	Mus musculus	adhesion regulating molecule 1; similar to Adhesion regulating molecule 1; predicted gene 9774
+ADRM1	uc002ycp.1	Homo sapiens	adhesion regulating molecule 1
+ADRM1	uc011aai.1	Homo sapiens	adhesion regulating molecule 1
+ADRM1	uc002ycn.2	Homo sapiens	adhesion regulating molecule 1
+ADRM1	uc002yco.2	Homo sapiens	adhesion regulating molecule 1
+SPC25	uc002uel.2	Homo sapiens	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+SPC25	uc008jxu.1	Mus musculus	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+SPC25	uc008jxx.1	Mus musculus	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+SPC25	uc008jxw.1	Mus musculus	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+SPC25	uc008jxv.1	Mus musculus	SPC25, NDC80 kinetochore complex component, homolog (S. cerevisiae)
+TUBB	uc011ikg.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011fyf.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011hnb.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011jhi.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011ely.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011ikh.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011ezt.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011jhh.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011fye.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011guh.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011jhg.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011gui.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc010kzj.2	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011hnc.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011fyg.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011hnd.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc003nrl.2	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011elx.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011guj.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc003nrk.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011elw.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011dmq.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011iki.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011ezr.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+TUBB	uc011ezs.1	Homo sapiens	tubulin, beta; similar to tubulin, beta 5; tubulin, beta pseudogene 2; tubulin, beta pseudogene 1
+CCT5	uc007vkj.1	Mus musculus	chaperonin containing Tcp1, subunit 5 (epsilon)
+CCT5	uc011cmt.1	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc011cms.1	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc011cmr.1	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc003jeq.2	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc011cmq.1	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc010its.2	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT5	uc003jer.2	Homo sapiens	chaperonin containing TCP1, subunit 5 (epsilon)
+CCT6B	uc010ctg.2	Homo sapiens	chaperonin containing TCP1, subunit 6B (zeta 2)
+CCT6B	uc002hig.2	Homo sapiens	chaperonin containing TCP1, subunit 6B (zeta 2)
+CCT6B	uc010wcc.1	Homo sapiens	chaperonin containing TCP1, subunit 6B (zeta 2)
+CCT6B	uc007kmx.1	Mus musculus	chaperonin containing Tcp1, subunit 6b (zeta)
+CSE1L	uc002xty.2	Homo sapiens	CSE1 chromosome segregation 1-like (yeast)
+CSE1L	uc010zyg.1	Homo sapiens	CSE1 chromosome segregation 1-like (yeast)
+CSE1L	uc010ghx.2	Homo sapiens	CSE1 chromosome segregation 1-like (yeast)
+CSE1L	uc010zyh.1	Homo sapiens	CSE1 chromosome segregation 1-like (yeast)
+CSE1L	uc010ghy.2	Homo sapiens	CSE1 chromosome segregation 1-like (yeast)
+CSE1L	uc008nyt.1	Mus musculus	chromosome segregation 1-like (S. cerevisiae)
+CSE1L	uc008nys.1	Mus musculus	chromosome segregation 1-like (S. cerevisiae)
+TXNDC17	uc007jyj.1	Mus musculus	thioredoxin domain containing 17
+TXNDC17	uc002gdf.3	Homo sapiens	thioredoxin domain containing 17
+EIF2S1	uc007nzk.1	Mus musculus	similar to Eukaryotic translation initiation factor 2 subunit 1 (Eukaryotic translation initiation factor 2 alpha subunit) (eIF-2-alpha) (EIF-2alpha) (EIF-2A); eukaryotic translation initiation factor 2, subunit 1 alpha; predicted gene 7459
+EIF2S1	uc001xjg.2	Homo sapiens	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa
+PCNA	uc002wlp.2	Homo sapiens	proliferating cell nuclear antigen
+PCNA	uc010zqs.1	Homo sapiens	proliferating cell nuclear antigen
+PCNA	uc002wlq.2	Homo sapiens	proliferating cell nuclear antigen
+PCNA	uc008mml.1	Mus musculus	proliferating cell nuclear antigen; similar to proliferating cell nuclear antigen (DNA polymerase delta auxiliary protein)
+GEMIN6	uc002rrc.2	Homo sapiens	gem (nuclear organelle) associated protein 6
+GEMIN6	uc002rrb.2	Homo sapiens	gem (nuclear organelle) associated protein 6
+GEMIN6	uc008dqv.1	Mus musculus	predicted gene 6253; gem (nuclear organelle) associated protein 6; similar to gem (nuclear organelle) associated protein 6
+GEMIN6	uc008dqw.1	Mus musculus	predicted gene 6253; gem (nuclear organelle) associated protein 6; similar to gem (nuclear organelle) associated protein 6
+GPT2	uc002een.2	Homo sapiens	glutamic pyruvate transaminase (alanine aminotransferase) 2
+GPT2	uc002eel.2	Homo sapiens	glutamic pyruvate transaminase (alanine aminotransferase) 2
+GPT2	uc002eem.2	Homo sapiens	glutamic pyruvate transaminase (alanine aminotransferase) 2
+GPT2	uc009mpz.1	Mus musculus	glutamic pyruvate transaminase (alanine aminotransferase) 2
+GPT2	uc009mpx.1	Mus musculus	glutamic pyruvate transaminase (alanine aminotransferase) 2
+GPT2	uc009mpy.1	Mus musculus	glutamic pyruvate transaminase (alanine aminotransferase) 2
+AHSA1	uc001xtw.2	Homo sapiens	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)
+AHSA1	uc010tvk.1	Homo sapiens	AHA1, activator of heat shock 90kDa protein ATPase homolog 1 (yeast)
+AHSA1	uc007oit.1	Mus musculus	AHA1, activator of heat shock protein ATPase homolog 1 (yeast)

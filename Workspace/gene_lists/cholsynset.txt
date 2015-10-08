@@ -1,0 +1,37 @@
+From	To	Species	Gene Name
+uc008wie.1	cyp51	Mus musculus	"cytochrome P450, family 51"
+uc008tyl.1	DHCR24	Mus musculus	24-dehydrocholesterol reductase
+uc010ook.1	DHCR24	Homo sapiens	24-dehydrocholesterol reductase
+uc010ooj.1	DHCR24	Homo sapiens	24-dehydrocholesterol reductase
+uc001cyc.1	DHCR24	Homo sapiens	24-dehydrocholesterol reductase
+uc010ooi.1	DHCR24	Homo sapiens	24-dehydrocholesterol reductase
+uc001oql.2	DHCR7	Homo sapiens	7-dehydrocholesterol reductase
+uc001oqk.2	DHCR7	Homo sapiens	7-dehydrocholesterol reductase
+uc009kqc.1	DHCR7	Mus musculus	7-dehydrocholesterol reductase
+uc004djx.3	EBP	Homo sapiens	emopamil binding protein (sterol isomerase)
+uc009soi.1	EBP	Mus musculus	phenylalkylamine Ca2+ antagonist (emopamil) binding protein
+uc004djy.3	EBP	Homo sapiens	emopamil binding protein (sterol isomerase)
+uc004djz.2	EBP	Homo sapiens	emopamil binding protein (sterol isomerase)
+uc007dlq.1	hsd17b7	Mus musculus	hydroxysteroid (17-beta) dehydrogenase 7
+uc007dlp.1	hsd17b7	Mus musculus	hydroxysteroid (17-beta) dehydrogenase 7
+uc001gci.2	hsd17b7	Homo sapiens	hydroxysteroid (17-beta) dehydrogenase 7
+uc009wuv.2	hsd17b7	Homo sapiens	hydroxysteroid (17-beta) dehydrogenase 7
+uc004fgs.1	nsdhl	Homo sapiens	NAD(P) dependent steroid dehydrogenase-like
+uc004fgt.1	nsdhl	Homo sapiens	NAD(P) dependent steroid dehydrogenase-like
+uc009tkv.1	nsdhl	Mus musculus	NAD(P) dependent steroid dehydrogenase-like
+uc003irf.2	SC4MOL	Homo sapiens	sterol-C4-methyl oxidase-like
+uc010irb.2	SC4MOL	Homo sapiens	sterol-C4-methyl oxidase-like
+uc009lux.1	SC4MOL	Mus musculus	sterol-C4-methyl oxidase-like
+uc003ire.2	SC4MOL	Homo sapiens	sterol-C4-methyl oxidase-like
+uc009luy.1	SC4MOL	Mus musculus	sterol-C4-methyl oxidase-like
+uc009pas.1	Sc5d	Mus musculus	"sterol-C5-desaturase (fungal ERG3, delta-5-desaturase) homolog (S. cerevisae)"
+uc009par.1	Sc5d	Mus musculus	"sterol-C5-desaturase (fungal ERG3, delta-5-desaturase) homolog (S. cerevisae)"
+uc008ggw.1	tm7sf2	Mus musculus	transmembrane 7 superfamily member 2
+uc001oct.2	tm7sf2	Homo sapiens	transmembrane 7 superfamily member 2
+uc001ocv.2	tm7sf2	Homo sapiens	transmembrane 7 superfamily member 2
+uc001ocu.2	tm7sf2	Homo sapiens	transmembrane 7 superfamily member 2
+uc008ggy.1	tm7sf2	Mus musculus	transmembrane 7 superfamily member 2
+uc010rny.1	tm7sf2	Homo sapiens	transmembrane 7 superfamily member 2
+uc008ggx.1	tm7sf2	Mus musculus	transmembrane 7 superfamily member 2
+uc008ggz.1	tm7sf2	Mus musculus	transmembrane 7 superfamily member 2
+uc008gha.1	tm7sf2	Mus musculus	transmembrane 7 superfamily member 2

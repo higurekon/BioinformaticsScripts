@@ -1,0 +1,18 @@
+14264	Fis	acnB	bifunctional aconitate hydratase 2 and 2-methylisocitrate dehydratase
+17422	PhoP	argD	N-acetylornithine aminotransferase
+17422	PhoP	argD	N-acetylornithine aminotransferase
+18402	ModE	deoC	deoxyribose-phosphate aldolase
+15454	IHF	fnr	transcriptional regulator for oxygen-regulated gene expression
+15501	CysB	hslJ	heat shock protein HslJ
+14485	CRP	mhpA	3-(3-hydroxyphenyl)propionate 2-hydroxylase
+15346	RstA	narG	"nitrate reductase A, ? subunit"
+15510	Paax	paaA	"ring 1,2-phenylacetyl-CoA epoxidase, monooxygenase subunit"
+15510	Paax	paaA	"ring 1,2-phenylacetyl-CoA epoxidase, monooxygenase subunit"
+14215	SgrR	sgrR	DNA-binding transcriptional dual regulator
+14215	SgrR	sgrR	DNA-binding transcriptional dual regulator
+17948	SoxS	sodA	biosynthesis of manganese-containing superoxide dismutase
+15385	TrpR	trpL	trp operon leader peptide
+14549	DeoR	tsx	nucleoside channel; receptor of phage T6 and colicin K
+15826	SdiA	ydiV	anti-FlhDC factor
+18378	YehT	yjiY	predicted inner membrane protein
+17145	YqjI	yqjH	"ferric reductase, NADPH-dependent"

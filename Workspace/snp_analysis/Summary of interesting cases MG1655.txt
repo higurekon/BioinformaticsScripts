@@ -1,0 +1,30 @@
+types	vimss	upstream				nonsynonymous				synonymous				downstream				ecs	names	log2 ratio	p-value	SD test	SD ref	Max log2 ratio	TF binding sites	Sigma sites	Is mapped to ortholog	Fraction Missing
+Coding with metabolites	17488	0	0	0	0	1	1	0	0	1	0	0	1	3	2	2	2	"1.1.5.3,1.1.99.5"	"glycerol-alpha-phosphate , glycerol-alpha-phosphate"	"0.767274337222421 , 0.767274337222421"	"0.454055432685492 , 0.454055432685492"	"0.0434886231936481 , 0.0434886231936481"	"6.747048e-03 , 6.747048e-03"	0.76727434	ArcA	Sigma70	yes	
+Coding with metabolites	17889	0	0	1	0	2	0	1	0	6	9	10	9	0	0	0	0	4.1.1.-	phenylpyruvic acid	-0.110040041	0.939626764	0.078668716	7.55E-02	-0.11004004	0	0	yes	
+Coding with metabolites	15138	0	0	0	0	1	0	0	0	12	14	25	28	1	0	0	0	"1.5.1.12,1.5.99.8"	proline	-0.275002843	0.807992052	0.021561528	1.82E-02	-0.27500284	BasR	Sigma32	yes	
+Upstream with metabolites	15052	0	1	0	0	0	0	0	0	1	1	1	0	1	0	0	1	"2.6.1.1,2.6.1.57"	"aspartic acid , aspartic acid"	"-0.378955683136698 , -0.378955683136698"	"0.741513314006951 , 0.741513314006951"	"0.0104317442316806 , 0.0104317442316806"	"9.839354e-03 , 9.839354e-03"	0.37895568	FNR	0	yes	
+Upstream with metabolites	16240	0	1	1	0	0	0	0	0	4	3	4	3	0	3	0	0	3.2.1.21	cellobiose	0.484581333	0.556729652	0.005671822	2.43E-03	0.48458133	0	0	yes	
+Upstream with metabolites	17085	0	0	1	0	0	0	0	0	8	5	1	0	0	2	0	0	4.4.1.8	cystathionine 4TMS NIST	-0.015669456	0.943791871	0.001873318	4.32E-03	-0.01566946	MetJ	0	yes	
+Upstream with metabolites	18285	5	5	10	9	0	0	0	0	6	4	4	1	0	0	0	0	3.4.11.1	cysteine-glycine	-0.208870366	0.852591686	0.048144639	5.17E-02	-0.20887037	PepA	Sigma24	yes	
+Upstream with metabolites	18293	0	1	1	1	0	0	0	0	1	1	0	1	0	0	0	0	2.7.1.12	gluconic acid	3.548746409	0.374900305	0.001980261	1.09E-04	3.54874641	CRP	Sigma24	yes	
+Upstream with metabolites	15155	0	1	1	3	0	0	0	0	0	1	2	1	0	0	0	0	"1.1.1.81,1.1.1.95"	"glyceric acid , 3-phosphoglycerate"	"0.0789849138420591 , 0.437719659196196"	"0.948423668519921 , 0.514561614050625"	"0.0303021322243173 , 0.0147166711315958"	"4.640809e-02 , 3.633252e-03"	0.43771966	0	0	yes	
+Upstream with metabolites	16447	0	0	0	1	0	0	0	0	17	10	12	16	0	0	0	0	"1.1.1.3,4.2.1.17,5.1.2.3,1.1.1.35"	homoserine	0.35930943	0.631998787	0.012862726	9.30E-03	0.35930943	0	0	yes	
+Upstream with metabolites	18041	1	1	0	0	0	0	0	0	3	6	1	2	0	1	1	0	2.3.1.46	homoserine	0.35930943	0.631998787	0.012862726	9.30E-03	0.35930943	MetJ	0	yes	
+Upstream with metabolites	16318	2	1	6	5	0	0	0	0	2	3	0	4	0	0	0	0	"1.1.5.4,1.1.99.16"	"malic acid , malic acid"	"0.559340751415306 , 0.559340751415306"	"0.601271781187417 , 0.601271781187417"	"0.000607322119928488 , 0.000607322119928488"	"1.361828e-04 , 1.361828e-04"	0.55934075	0	0	yes	
+Upstream with metabolites	16562	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	"1.1.1.39,1.1.1.40"	"malic acid , malic acid"	"0.559340751415306 , 0.559340751415306"	"0.601271781187417 , 0.601271781187417"	"0.000607322119928488 , 0.000607322119928488"	"1.361828e-04 , 1.361828e-04"	0.55934075	0	0	yes	
+Upstream with metabolites	15886	0	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	3.5.1.19	nicotinamide	0.585281258	0.442370219	0.020484601	1.91E-02	0.58528126	0	0	yes	
+Upstream with metabolites	17996	2	2	3	1	0	0	0	0	3	6	5	6	0	0	0	0	3.5.1.16	ornithine 3TMS minor	0.536819815	0.569845113	0.024088108	5.95E-03	0.53681981	ArgR	0	yes	
+Upstream with metabolites	18279	0	0	0	2	0	0	0	0	11	5	9	7	0	0	1	0	2.1.3.3	ornithine 3TMS minor	0.536819815	0.569845113	0.024088108	5.95E-03	0.53681981	ArgR	Sigma28	yes	
+Upstream with metabolites	16694	0	1	0	0	0	0	0	0	1	3	3	5	0	0	0	0	"4.2.1.51,5.4.99.5"	phenylalanine	0.535279635	0.625881773	0.023531445	1.74E-02	0.53527963	0	0	yes	
+Upstream with metabolites	1937180	1	2	0	0	0	0	0	0	3	5	5	6	0	0	0	0	5.3.1.14	rhamnose 1	0.360535579	0.409413806	0.001069045	1.70E-03	0.36053558	CRP	"Sigma38,Sigma70"	yes	
+																												
+# types: the category of the gene																												
+"# upstream/nonsynonymous/synonymous/downstream: the categories of each group of SNPs. Each category has four columns for where the SNPs are nucleotide A, T, C, G in that order."																												
+"# ecs: the EC number of that gene, commas for multiple EC numbers."																												
+"# names: the names of the metabolite that is associated with that EC number, commas if multiple metabolites found."																												
+"# log2 ratio/p-value/SD test/SD ref: the metabolite features for the metabolites mapped to each gene, commas if multiple metabolites."																												
+"# Max log2 ratio: if multiple log2 ratio values, the max taken for sorting purposes."																												
+"# TF binding sites: the transcription factor binding site associated with this gene, taken from Regulon DB"																												
+"# Sigma sites: the sigma site associated with this gene, also from Regulon DB"																												
+"# Fraction Missing: if gene is categorized as found missing in the other genome, or ""Missing genes and metabolites"", this tells how much of it is missing in the alignment."																												
+"# Mutation in binding site?: For genes categorized as ""Upstream with metabolites"" with a binding site associated with them, searched binding site sequence from Regulon on BLAST to see if the binding site was altered."																												

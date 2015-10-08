@@ -1,0 +1,117 @@
+From	To	Species	Gene Name
+MOCOS	uc008egy.1	Mus musculus	molybdenum cofactor sulfurase
+MOCOS	uc008egz.1	Mus musculus	molybdenum cofactor sulfurase
+MOCOS	uc002kzq.3	Homo sapiens	molybdenum cofactor sulfurase
+IL17RE	uc009dgg.1	Mus musculus	interleukin 17 receptor E
+IL17RE	uc009dgj.1	Mus musculus	interleukin 17 receptor E
+IL17RE	uc009dgi.1	Mus musculus	interleukin 17 receptor E
+IL17RE	uc009dgh.1	Mus musculus	interleukin 17 receptor E
+IL17RE	uc003btx.2	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc010hcq.2	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc003btw.2	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc003btu.2	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc011atn.1	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc003bty.2	Homo sapiens	interleukin 17 receptor E
+IL17RE	uc003btv.2	Homo sapiens	interleukin 17 receptor E
+ILDR1	uc003eeq.2	Homo sapiens	immunoglobulin-like domain containing receptor 1
+ILDR1	uc010hrg.2	Homo sapiens	immunoglobulin-like domain containing receptor 1
+ILDR1	uc003eer.2	Homo sapiens	immunoglobulin-like domain containing receptor 1
+ILDR1	uc003ees.2	Homo sapiens	immunoglobulin-like domain containing receptor 1
+ILDR1	uc007zct.1	Mus musculus	immunoglobulin-like domain containing receptor 1
+ILDR1	uc007zcu.1	Mus musculus	immunoglobulin-like domain containing receptor 1
+ILDR1	uc007zcs.1	Mus musculus	immunoglobulin-like domain containing receptor 1
+ILDR1	uc007zcr.1	Mus musculus	immunoglobulin-like domain containing receptor 1
+IL17RC	uc010hcv.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003bua.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc010hcu.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc011atq.1	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003btz.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003bue.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc010hcs.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc011ato.1	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc011atp.1	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc010hcr.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003bub.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc010hct.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003bud.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc003buc.2	Homo sapiens	interleukin 17 receptor C
+IL17RC	uc009dgk.1	Mus musculus	interleukin 17 receptor C
+IL17RC	uc009dgl.1	Mus musculus	interleukin 17 receptor C
+IL17RC	uc009dgm.1	Mus musculus	interleukin 17 receptor C
+YBX2	uc002gfq.2	Homo sapiens	Y box binding protein 2
+YBX2	uc007jsw.1	Mus musculus	similar to Y box protein 2; Y box protein 2
+YBX2	uc007jsx.1	Mus musculus	similar to Y box protein 2; Y box protein 2
+IL17C	uc009nso.1	Mus musculus	interleukin 17C
+IL17C	uc002fla.2	Homo sapiens	interleukin 17C
+IL17A	uc003pak.1	Homo sapiens	interleukin 17A
+IL17A	uc007aky.1	Mus musculus	interleukin 17A
+CCDC65	uc007xnl.1	Mus musculus	coiled-coil domain containing 65
+CCDC65	uc007xnk.1	Mus musculus	coiled-coil domain containing 65
+CCDC65	uc001rso.2	Homo sapiens	coiled-coil domain containing 65
+IL23A	uc007hmc.1	Mus musculus	interleukin 23, alpha subunit p19
+IL23A	uc001sla.2	Homo sapiens	interleukin 23, alpha subunit p19
+SH2D6	uc002spq.2	Homo sapiens	SH2 domain containing 6
+SH2D6	uc002spo.2	Homo sapiens	SH2 domain containing 6
+SH2D6	uc002spp.2	Homo sapiens	SH2 domain containing 6
+GPR25	uc001gvn.1	Homo sapiens	G protein-coupled receptor 25
+IL17F	uc003pal.1	Homo sapiens	interleukin 17F
+IL17F	uc003pam.1	Homo sapiens	interleukin 17F
+IL17F	uc007akz.1	Mus musculus	interleukin 17F
+IL17F	uc007ala.1	Mus musculus	interleukin 17F
+B4GALNT4	uc009kje.1	Mus musculus	beta-1,4-N-acetyl-galactosaminyl transferase 4
+B4GALNT4	uc009kjg.1	Mus musculus	beta-1,4-N-acetyl-galactosaminyl transferase 4
+B4GALNT4	uc009kjf.1	Mus musculus	beta-1,4-N-acetyl-galactosaminyl transferase 4
+B4GALNT4	uc001lpb.2	Homo sapiens	beta-1,4-N-acetyl-galactosaminyl transferase 4
+LONRF3	uc004eqy.2	Homo sapiens	LON peptidase N-terminal domain and ring finger 3
+LONRF3	uc004eqz.2	Homo sapiens	LON peptidase N-terminal domain and ring finger 3
+LONRF3	uc004eqx.2	Homo sapiens	LON peptidase N-terminal domain and ring finger 3
+LONRF3	uc004eqw.2	Homo sapiens	LON peptidase N-terminal domain and ring finger 3
+LONRF3	uc009sxm.1	Mus musculus	LON peptidase N-terminal domain and ring finger 3
+LONRF3	uc009sxn.1	Mus musculus	LON peptidase N-terminal domain and ring finger 3
+CEACAM3	uc002orn.1	Homo sapiens	carcinoembryonic antigen-related cell adhesion molecule 3
+CEACAM3	uc010eia.1	Homo sapiens	carcinoembryonic antigen-related cell adhesion molecule 3
+CEACAM3	uc002oro.1	Homo sapiens	carcinoembryonic antigen-related cell adhesion molecule 3
+TNIP2	uc008xck.1	Mus musculus	TNFAIP3 interacting protein 2
+TNIP2	uc008xcj.1	Mus musculus	TNFAIP3 interacting protein 2
+TNIP2	uc003gfg.2	Homo sapiens	TNFAIP3 interacting protein 2
+TNIP2	uc003gfh.2	Homo sapiens	TNFAIP3 interacting protein 2
+TNIP2	uc003gff.2	Homo sapiens	TNFAIP3 interacting protein 2
+F12	uc011dfy.1	Homo sapiens	coagulation factor XII (Hageman factor)
+F12	uc003mgo.3	Homo sapiens	coagulation factor XII (Hageman factor)
+F12	uc010jkl.2	Homo sapiens	coagulation factor XII (Hageman factor)
+F12	uc003mgn.3	Homo sapiens	coagulation factor XII (Hageman factor)
+F12	uc007qqv.1	Mus musculus	coagulation factor XII (Hageman factor)
+LTK	uc001zob.3	Homo sapiens	leukocyte receptor tyrosine kinase
+LTK	uc010bcg.2	Homo sapiens	leukocyte receptor tyrosine kinase
+LTK	uc001zoa.3	Homo sapiens	leukocyte receptor tyrosine kinase
+LTK	uc010ucx.1	Homo sapiens	leukocyte receptor tyrosine kinase
+LTK	uc008lug.1	Mus musculus	leukocyte tyrosine kinase
+LTK	uc008luj.1	Mus musculus	leukocyte tyrosine kinase
+LTK	uc008lui.1	Mus musculus	leukocyte tyrosine kinase
+LTK	uc008luh.1	Mus musculus	leukocyte tyrosine kinase
+FURIN	uc009iav.1	Mus musculus	furin (paired basic amino acid cleaving enzyme)
+FURIN	uc009iau.1	Mus musculus	furin (paired basic amino acid cleaving enzyme)
+FURIN	uc002bpu.1	Homo sapiens	furin (paired basic amino acid cleaving enzyme)
+TRAF3IP2	uc010kdx.2	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc003pvf.2	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc011ebb.1	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc010kdw.2	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc003pvg.2	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc011ebc.1	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc003pvd.2	Homo sapiens	TRAF3 interacting protein 2
+TRAF3IP2	uc007ewa.1	Mus musculus	TRAF3 interacting protein 2
+ABP1	uc003whz.1	Homo sapiens	amiloride binding protein 1 (amine oxidase (copper-containing))
+ABP1	uc003wia.1	Homo sapiens	amiloride binding protein 1 (amine oxidase (copper-containing))
+ABP1	uc003why.1	Homo sapiens	amiloride binding protein 1 (amine oxidase (copper-containing))
+ABP1	uc009bwb.1	Mus musculus	amiloride binding protein 1 (amine oxidase, copper-containing)
+ABP1	uc009bwa.1	Mus musculus	amiloride binding protein 1 (amine oxidase, copper-containing)
+CHRM3	uc001hyp.2	Homo sapiens	cholinergic receptor, muscarinic 3
+CHRM3	uc001hyo.1	Homo sapiens	cholinergic receptor, muscarinic 3
+CHRM3	uc007plb.1	Mus musculus	cholinergic receptor, muscarinic 3, cardiac
+C2CD4B	uc002ahg.2	Homo sapiens	family with sequence similarity 148, member B
+C2CD4B	uc009qmp.1	Mus musculus	family with sequence similarity 148, member B
+C2CD4B	uc009qmq.1	Mus musculus	family with sequence similarity 148, member B
+C2CD4A	uc002ahf.3	Homo sapiens	family with sequence similarity 148, member A
+CA2	uc003ydk.2	Homo sapiens	carbonic anhydrase II
+DOC2B	uc010vpx.1	Homo sapiens	double C2-like domains, beta
+DOC2B	uc007kev.1	Mus musculus	double C2, beta

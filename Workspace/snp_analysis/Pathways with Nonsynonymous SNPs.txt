@@ -1,0 +1,88 @@
+Amino acid biosynthesis:Aromatic amino acid family	6
+Amino acid biosynthesis:Aspartate family	10
+Amino acid biosynthesis:Glutamate family	2
+Amino acid biosynthesis:Histidine family	7
+Amino acid biosynthesis:Pyruvate family	7
+Amino acid biosynthesis:Serine family	2
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Biotin"	4
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Folic acid"	3
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Heme, porphyrin, and cobalamin"	7
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Menaquinone and ubiquinone"	4
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Molybdopterin"	3
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Other"	7
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Pantothenate and coenzyme A"	2
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Pyridine nucleotides"	3
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Pyridoxine"	1
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Riboflavin, FMN, and FAD"	1
+"Biosynthesis of cofactors, prosthetic groups, and carriers:Thiamine"	5
+Cell envelope:Biosynthesis and degradation of murein sacculus and peptidoglycan	10
+Cell envelope:Biosynthesis and degradation of surface polysaccharides and lipopolysaccharides	12
+Cell envelope:Other	2
+Cell envelope:Surface structures	1
+Cellular processes:Adaptations to atypical conditions	6
+Cellular processes:Cell division	1
+Cellular processes:Chemotaxis and motility	12
+Cellular processes:Detoxification	2
+Cellular processes:DNA transformation	1
+Cellular processes:Pathogenesis	3
+Cellular processes:Toxin production and resistance	2
+Central intermediary metabolism:Amino sugars	1
+Central intermediary metabolism:Nitrogen metabolism	2
+Central intermediary metabolism:One-carbon metabolism	1
+Central intermediary metabolism:Other	3
+Central intermediary metabolism:Phosphorus compounds	2
+Central intermediary metabolism:Polyamine biosynthesis	1
+Central intermediary metabolism:Sulfur metabolism	3
+DNA metabolism:Degradation of DNA	1
+"DNA metabolism:DNA replication, recombination, and repair"	24
+Energy metabolism:Amino acids and amines	13
+Energy metabolism:Anaerobic	7
+Energy metabolism:ATP-proton motive force interconversion	1
+Energy metabolism:Biosynthesis and degradation of polysaccharides	2
+Energy metabolism:Electron transport	13
+Energy metabolism:Fermentation	2
+Energy metabolism:Glycolysis/gluconeogenesis	2
+Energy metabolism:Other	5
+Energy metabolism:Pentose phosphate pathway	4
+Energy metabolism:Sugars	10
+Energy metabolism:TCA cycle	6
+Fatty acid and phospholipid metabolism:Biosynthesis	3
+Fatty acid and phospholipid metabolism:Degradation	4
+Fatty acid and phospholipid metabolism:Other	2
+Hypothetical proteins:Conserved	5
+Mobile and extrachromosomal element functions:Other	7
+Mobile and extrachromosomal element functions:Transposon functions	1
+"Protein fate:Degradation of proteins, peptides, and glycopeptides"	5
+Protein fate:Protein and peptide secretion and trafficking	12
+Protein fate:Protein folding and stabilization	1
+Protein fate:Protein modification and repair	7
+Protein synthesis:Other	1
+Protein synthesis:Ribosomal proteins: synthesis and modification	2
+Protein synthesis:Translation factors	3
+Protein synthesis:tRNA aminoacylation	7
+Protein synthesis:tRNA and rRNA base modification	15
+"Purines, pyrimidines, nucleosides, and nucleotides:2'-Deoxyribonucleotide metabolism"	2
+"Purines, pyrimidines, nucleosides, and nucleotides:Nucleotide and nucleoside interconversions"	1
+"Purines, pyrimidines, nucleosides, and nucleotides:Other"	4
+"Purines, pyrimidines, nucleosides, and nucleotides:Purine ribonucleotide biosynthesis"	8
+"Purines, pyrimidines, nucleosides, and nucleotides:Pyrimidine ribonucleotide biosynthesis"	1
+"Purines, pyrimidines, nucleosides, and nucleotides:Salvage of nucleosides and nucleotides"	1
+Regulatory functions:DNA interactions	8
+Regulatory functions:Protein interactions	1
+Regulatory functions:Small molecule interactions	3
+Signal transduction:Other	9
+Signal transduction:PTS	12
+Signal transduction:Two-component systems	1
+Transcription:Degradation of RNA	1
+Transcription:RNA processing	3
+Transcription:Transcription factors	1
+"Transport and binding proteins:Amino acids, peptides and amines"	12
+Transport and binding proteins:Anions	5
+"Transport and binding proteins:Carbohydrates, organic alcohols, and acids"	13
+Transport and binding proteins:Cations and iron carrying compounds	14
+"Transport and binding proteins:Nucleosides, purines and pyrimidines"	3
+Transport and binding proteins:Other	10
+Transport and binding proteins:Porins	7
+Transport and binding proteins:Unknown substrate	6
+Unknown function:Enzymes of unknown specificity	15
+Unknown function:General	13

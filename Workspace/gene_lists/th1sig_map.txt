@@ -1,0 +1,38 @@
+From	To	Species	Gene Name
+IL12RB2	uc010oqm.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc010oqi.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc010oql.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc010oqn.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc010oqk.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc001ddu.2	Homo sapiens	interleukin 12 receptor, beta 2
+IL12RB2	uc010oqj.1	Homo sapiens	interleukin 12 receptor, beta 2
+IL18R1	uc010ywb.1	Homo sapiens	interleukin 18 receptor 1
+IL18R1	uc002tbw.3	Homo sapiens	interleukin 18 receptor 1
+IL18R1	uc010fiy.2	Homo sapiens	interleukin 18 receptor 1
+IL18R1	uc010ywd.1	Homo sapiens	interleukin 18 receptor 1
+IL18R1	uc010ywc.1	Homo sapiens	interleukin 18 receptor 1
+ZBTB32	uc002oaz.2	Homo sapiens	zinc finger and BTB domain containing 32
+ZBTB32	uc002oay.2	Homo sapiens	zinc finger and BTB domain containing 32
+STAT4	uc010zgo.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgm.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgl.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgk.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usp.3	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usm.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc010zgn.1	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002uso.2	Homo sapiens	signal transducer and activator of transcription 4
+STAT4	uc002usn.1	Homo sapiens	signal transducer and activator of transcription 4
+IL18RAP	uc010fiz.2	Homo sapiens	interleukin 18 receptor accessory protein
+IL18RAP	uc002tbx.2	Homo sapiens	interleukin 18 receptor accessory protein
+IL27RA	uc002mxx.2	Homo sapiens	interleukin 27 receptor, alpha
+CCR5	uc003cpo.3	Homo sapiens	chemokine (C-C motif) receptor 5
+CCR5	uc010hjd.2	Homo sapiens	chemokine (C-C motif) receptor 5
+TBX21	uc002ilv.1	Homo sapiens	T-box 21
+IFNG	uc001stw.1	Homo sapiens	interferon, gamma
+CXCR3	uc004eaf.2	Homo sapiens	chemokine (C-X-C motif) receptor 3
+CXCR3	uc011mpx.1	Homo sapiens	chemokine (C-X-C motif) receptor 3
+STAT1	uc002usk.2	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+STAT1	uc010fsf.1	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+STAT1	uc010fse.1	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+STAT1	uc002usl.2	Homo sapiens	signal transducer and activator of transcription 1, 91kDa
+STAT1	uc002usj.2	Homo sapiens	signal transducer and activator of transcription 1, 91kDa

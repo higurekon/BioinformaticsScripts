@@ -1,0 +1,180 @@
+From	To	Species	Gene Name
+PIK3CG	uc007nia.1	Mus musculus	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc007nid.1	Mus musculus	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc007nib.1	Mus musculus	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc007nic.1	Mus musculus	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc003vdv.3	Homo sapiens	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc003vdu.2	Homo sapiens	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+PIK3CG	uc003vdw.2	Homo sapiens	phosphoinositide-3-kinase, catalytic, gamma polypeptide
+CRTAM	uc001pyj.2	Homo sapiens	cytotoxic and regulatory T cell molecule
+CRTAM	uc001pyk.2	Homo sapiens	cytotoxic and regulatory T cell molecule
+CRTAM	uc009paf.1	Mus musculus	cytotoxic and regulatory T cell molecule
+CRTAM	uc009pad.1	Mus musculus	cytotoxic and regulatory T cell molecule
+CRTAM	uc009pae.1	Mus musculus	cytotoxic and regulatory T cell molecule
+LST1	uc011hrp.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc010jsw.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyx.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gci.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcr.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyv.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrg.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkg.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ioo.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcq.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyt.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011eng.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyq.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ioz.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ioq.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcg.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc010jsx.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyz.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hre.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emx.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyp.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkj.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ene.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gco.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ioy.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emy.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrl.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iow.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iou.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003num.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fei.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emz.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrh.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkh.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ios.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fel.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emu.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emw.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkl.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrj.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fem.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkn.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nuo.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011emv.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fek.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gza.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcm.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrn.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nun.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fej.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gck.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fer.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nuq.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nup.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyy.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fes.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nus.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011feu.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrq.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fet.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyw.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011feq.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrf.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ena.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gch.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gys.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fep.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011enb.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011end.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nuu.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcf.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011enf.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyu.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iop.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011fen.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011enc.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011feo.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc003nut.2	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkc.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iot.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iox.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyr.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ior.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcn.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkd.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkf.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkk.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcp.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gyo.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jki.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jke.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcl.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011iov.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011gcj.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrm.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkb.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011jkm.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hrk.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc010jss.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hri.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc010jst.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc010jsu.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011ipa.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc011hro.1	Homo sapiens	leukocyte specific transcript 1
+LST1	uc008cgo.1	Mus musculus	leukocyte specific transcript 1
+LST1	uc008cgn.1	Mus musculus	leukocyte specific transcript 1
+GRB2	uc007mik.1	Mus musculus	growth factor receptor bound protein 2; predicted gene 12791
+GRB2	uc007mii.1	Mus musculus	growth factor receptor bound protein 2; predicted gene 12791
+GRB2	uc007mij.1	Mus musculus	growth factor receptor bound protein 2; predicted gene 12791
+GRB2	uc002jny.3	Homo sapiens	growth factor receptor-bound protein 2
+GRB2	uc002jnx.3	Homo sapiens	growth factor receptor-bound protein 2
+CYTH1	uc002jvw.2	Homo sapiens	cytohesin 1
+CYTH1	uc010wtv.1	Homo sapiens	cytohesin 1
+CYTH1	uc010wtx.1	Homo sapiens	cytohesin 1
+CYTH1	uc010wtw.1	Homo sapiens	cytohesin 1
+CYTH1	uc007mor.1	Mus musculus	cytohesin 1
+CYTH1	uc007mos.1	Mus musculus	cytohesin 1
+CYTH1	uc007moq.1	Mus musculus	cytohesin 1
+AXL	uc010ehj.2	Homo sapiens	AXL receptor tyrosine kinase
+AXL	uc010ehi.1	Homo sapiens	AXL receptor tyrosine kinase
+AXL	uc010ehk.2	Homo sapiens	AXL receptor tyrosine kinase
+AXL	uc009ftx.1	Mus musculus	AXL receptor tyrosine kinase
+AXL	uc009fty.1	Mus musculus	AXL receptor tyrosine kinase
+AXL	uc009ftz.1	Mus musculus	AXL receptor tyrosine kinase
+FASLG	uc001gis.2	Homo sapiens	Fas ligand (TNF superfamily, member 6)
+FASLG	uc001git.2	Homo sapiens	Fas ligand (TNF superfamily, member 6)
+CDH2	uc010xbn.1	Homo sapiens	cadherin 2, type 1, N-cadherin (neuronal)
+CDH2	uc002kwg.2	Homo sapiens	cadherin 2, type 1, N-cadherin (neuronal)
+CDH2	uc008edx.1	Mus musculus	cadherin 2; similar to N-cadherin
+SIGLEC9	uc010yct.1	Homo sapiens	sialic acid binding Ig-like lectin 9
+SIGLEC9	uc002pvu.2	Homo sapiens	sialic acid binding Ig-like lectin 9
+NOTCH3	uc008bvx.1	Mus musculus	Notch gene homolog 3 (Drosophila)
+NOTCH3	uc002nao.1	Homo sapiens	Notch homolog 3 (Drosophila)
+NOTCH3	uc002nan.2	Homo sapiens	Notch homolog 3 (Drosophila)
+KLRG1	uc001qvh.2	Homo sapiens	killer cell lectin-like receptor subfamily G, member 1
+KLRG1	uc001qvg.2	Homo sapiens	killer cell lectin-like receptor subfamily G, member 1
+KLRG1	uc009dov.1	Mus musculus	killer cell lectin-like receptor subfamily G, member 1
+LILRB5	uc010yer.1	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+LILRB5	uc002qey.2	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+LILRB5	uc002qfa.1	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+LILRB5	uc002qez.2	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+LILRB5	uc010yes.1	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+LILRB5	uc002qex.2	Homo sapiens	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 5
+MAPK4	uc010doz.2	Homo sapiens	mitogen-activated protein kinase 4
+MAPK4	uc010xdm.1	Homo sapiens	mitogen-activated protein kinase 4
+MAPK4	uc002lev.2	Homo sapiens	mitogen-activated protein kinase 4
+MAPK4	uc008fpa.1	Mus musculus	mitogen-activated protein kinase 4
+MAPK4	uc008fpb.1	Mus musculus	mitogen-activated protein kinase 4
+MAPK4	uc008fpc.1	Mus musculus	mitogen-activated protein kinase 4
+SIGLEC7	uc002pvv.1	Homo sapiens	sialic acid binding Ig-like lectin 7
+SIGLEC7	uc010eoq.1	Homo sapiens	sialic acid binding Ig-like lectin 7
+SIGLEC7	uc002pvw.1	Homo sapiens	sialic acid binding Ig-like lectin 7
+SIGLEC7	uc010eor.1	Homo sapiens	sialic acid binding Ig-like lectin 7
+PLCG2	uc010chg.1	Homo sapiens	phospholipase C, gamma 2 (phosphatidylinositol-specific)
+PLCG2	uc002fgt.2	Homo sapiens	phospholipase C, gamma 2 (phosphatidylinositol-specific)
+PLCG2	uc009npc.1	Mus musculus	phospholipase C, gamma 2
+AKT3	uc007duk.1	Mus musculus	thymoma viral proto-oncogene 3
+AKT3	uc001hzz.1	Homo sapiens	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+AKT3	uc001iab.1	Homo sapiens	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+AKT3	uc001iaa.2	Homo sapiens	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)
+PILRA	uc009aeb.1	Mus musculus	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc009aea.1	Mus musculus	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc011kjn.1	Homo sapiens	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc003uup.1	Homo sapiens	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc003uuo.1	Homo sapiens	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc003uuq.1	Homo sapiens	paired immunoglobin-like type 2 receptor alpha
+PILRA	uc011kjo.1	Homo sapiens	paired immunoglobin-like type 2 receptor alpha

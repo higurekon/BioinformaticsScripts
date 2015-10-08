@@ -1,0 +1,9 @@
+uc002vpl	ccl20
+uc002vpm	ccl20
+uc003hjh	cxcl9	
+uc003pak	il17a
+uc003yee	ripk2
+uc003yef	ripk2
+uc001sla	il23a
+uc001ezg	rorgt
+uc001ezh	rorg

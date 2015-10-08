@@ -1,0 +1,178 @@
+From	To	Species	Gene Name
+NRP2	uc002vaw.2	Homo sapiens	neuropilin 2
+NRP2	uc002vau.2	Homo sapiens	neuropilin 2
+NRP2	uc002vax.2	Homo sapiens	neuropilin 2
+NRP2	uc002vay.2	Homo sapiens	neuropilin 2
+NRP2	uc002vav.2	Homo sapiens	neuropilin 2
+NRP2	uc010fud.2	Homo sapiens	neuropilin 2
+NRP2	uc002vat.2	Homo sapiens	neuropilin 2
+NRP2	uc007bfo.1	Mus musculus	neuropilin 2
+NRP2	uc007bfi.1	Mus musculus	neuropilin 2
+NRP2	uc007bfj.1	Mus musculus	neuropilin 2
+NRP2	uc007bfn.1	Mus musculus	neuropilin 2
+NRP2	uc007bfk.1	Mus musculus	neuropilin 2
+NRP2	uc007bfl.1	Mus musculus	neuropilin 2
+NRP2	uc007bfm.1	Mus musculus	neuropilin 2
+NRP2	uc007bfp.1	Mus musculus	neuropilin 2
+DLC1	uc011kxy.1	Homo sapiens	deleted in liver cancer 1
+DLC1	uc003wwn.2	Homo sapiens	deleted in liver cancer 1
+DLC1	uc003wwk.1	Homo sapiens	deleted in liver cancer 1
+DLC1	uc011kxx.1	Homo sapiens	deleted in liver cancer 1
+DLC1	uc003wwm.2	Homo sapiens	deleted in liver cancer 1
+DLC1	uc003wwl.1	Homo sapiens	deleted in liver cancer 1
+DLC1	uc009lls.1	Mus musculus	deleted in liver cancer 1
+DLC1	uc009llr.1	Mus musculus	deleted in liver cancer 1
+DLC1	uc009llq.1	Mus musculus	deleted in liver cancer 1
+GNAI1	uc008wns.1	Mus musculus	guanine nucleotide binding protein (G protein), alpha inhibiting 1
+GNAI1	uc011kgt.1	Homo sapiens	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1
+GNAI1	uc003uhb.1	Homo sapiens	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1
+CALD1	uc009bhi.1	Mus musculus	caldesmon 1
+CALD1	uc009bhl.1	Mus musculus	caldesmon 1
+CALD1	uc009bhh.1	Mus musculus	caldesmon 1
+CALD1	uc009bhk.1	Mus musculus	caldesmon 1
+CALD1	uc010lmm.2	Homo sapiens	caldesmon 1
+CALD1	uc010lmn.2	Homo sapiens	caldesmon 1
+CALD1	uc003vsb.2	Homo sapiens	caldesmon 1
+CALD1	uc011kpv.1	Homo sapiens	caldesmon 1
+CALD1	uc003vse.2	Homo sapiens	caldesmon 1
+CALD1	uc003vry.2	Homo sapiens	caldesmon 1
+CALD1	uc011kpu.1	Homo sapiens	caldesmon 1
+CALD1	uc003vsd.2	Homo sapiens	caldesmon 1
+CALD1	uc003vsc.2	Homo sapiens	caldesmon 1
+CALD1	uc011kpt.1	Homo sapiens	caldesmon 1
+CALD1	uc003vrz.2	Homo sapiens	caldesmon 1
+CALD1	uc003vsa.2	Homo sapiens	caldesmon 1
+SIGLEC10	uc002pwp.2	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc010ycz.1	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc002pwr.2	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc010eow.2	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc002pws.1	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc010ycy.1	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc002pwo.2	Homo sapiens	sialic acid binding Ig-like lectin 10
+SIGLEC10	uc002pwq.2	Homo sapiens	sialic acid binding Ig-like lectin 10
+SMAD2	uc008fqo.1	Mus musculus	MAD homolog 2 (Drosophila)
+SMAD2	uc008fqn.1	Mus musculus	MAD homolog 2 (Drosophila)
+SMAD2	uc002lcy.2	Homo sapiens	SMAD family member 2
+SMAD2	uc002lcz.2	Homo sapiens	SMAD family member 2
+SMAD2	uc010xdc.1	Homo sapiens	SMAD family member 2
+SMAD2	uc010xdd.1	Homo sapiens	SMAD family member 2
+CSRP2	uc007gzs.1	Mus musculus	cysteine and glycine-rich protein 2
+CSRP2	uc001syl.1	Homo sapiens	cysteine and glycine-rich protein 2
+SKAP1	uc007lca.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lcf.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lcg.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lcd.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lch.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lcc.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lce.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc007lcb.1	Mus musculus	src family associated phosphoprotein 1
+SKAP1	uc010dbe.1	Homo sapiens	src kinase associated phosphoprotein 1
+SKAP1	uc010dbd.1	Homo sapiens	src kinase associated phosphoprotein 1
+SKAP1	uc002ini.1	Homo sapiens	src kinase associated phosphoprotein 1
+SKAP1	uc002inj.1	Homo sapiens	src kinase associated phosphoprotein 1
+TMPRSS3	uc008bup.1	Mus musculus	transmembrane protease, serine 3
+TMPRSS3	uc008buq.1	Mus musculus	transmembrane protease, serine 3
+TMPRSS3	uc002zaz.2	Homo sapiens	transmembrane protease, serine 3
+TMPRSS3	uc002zbb.2	Homo sapiens	transmembrane protease, serine 3
+TMPRSS3	uc002zbc.2	Homo sapiens	transmembrane protease, serine 3
+TMPRSS3	uc002zay.2	Homo sapiens	transmembrane protease, serine 3
+TMPRSS3	uc002zbd.2	Homo sapiens	transmembrane protease, serine 3
+TMPRSS3	uc002zba.2	Homo sapiens	transmembrane protease, serine 3
+DAPK1	uc007qvm.1	Mus musculus	death associated protein kinase 1
+DAPK1	uc007qvl.1	Mus musculus	death associated protein kinase 1
+DAPK1	uc007qvo.1	Mus musculus	death associated protein kinase 1
+DAPK1	uc007qvn.1	Mus musculus	death associated protein kinase 1
+DAPK1	uc004apf.1	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc004apg.2	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc011ltg.1	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc004ape.2	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc011lth.1	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc004apc.2	Homo sapiens	death-associated protein kinase 1
+DAPK1	uc004apd.2	Homo sapiens	death-associated protein kinase 1
+RNF125	uc008eez.1	Mus musculus	ring finger protein 125
+RNF125	uc008efa.1	Mus musculus	ring finger protein 125
+RNF125	uc002kxf.1	Homo sapiens	ring finger protein 125
+PLA2G4A	uc010pos.1	Homo sapiens	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+PLA2G4A	uc001gsc.2	Homo sapiens	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+PLA2G4A	uc007cxt.1	Mus musculus	phospholipase A2, group IVA (cytosolic, calcium-dependent)
+LAMP3	uc007ypb.1	Mus musculus	lysosomal-associated membrane protein 3
+LAMP3	uc003flh.3	Homo sapiens	lysosomal-associated membrane protein 3
+OSBPL1A	uc002kvf.3	Homo sapiens	oxysterol binding protein-like 1A
+OSBPL1A	uc002kve.2	Homo sapiens	oxysterol binding protein-like 1A
+OSBPL1A	uc010xbc.1	Homo sapiens	oxysterol binding protein-like 1A
+OSBPL1A	uc002kvd.2	Homo sapiens	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecs.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecp.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecz.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecx.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecu.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecq.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecr.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecv.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ect.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecw.1	Mus musculus	oxysterol binding protein-like 1A
+OSBPL1A	uc008ecy.1	Mus musculus	oxysterol binding protein-like 1A
+GATA3	uc008ihd.1	Mus musculus	GATA binding protein 3
+GATA3	uc008ihf.1	Mus musculus	GATA binding protein 3
+GATA3	uc008ihg.1	Mus musculus	GATA binding protein 3
+GATA3	uc008ihe.1	Mus musculus	GATA binding protein 3
+GATA3	uc001ijz.2	Homo sapiens	GATA binding protein 3
+GATA3	uc001ika.2	Homo sapiens	GATA binding protein 3
+CCR2	uc009shc.1	Mus musculus	chemokine (C-C motif) receptor 2
+CCR2	uc009shb.1	Mus musculus	chemokine (C-C motif) receptor 2
+CCR2	uc003cpn.3	Homo sapiens	chemokine (C-C motif) receptor 2
+CCR2	uc003cpm.3	Homo sapiens	chemokine (C-C motif) receptor 2
+DNAJC12	uc007fkg.1	Mus musculus	DnaJ (Hsp40) homolog, subfamily C, member 12
+DNAJC12	uc001jnc.2	Homo sapiens	DnaJ (Hsp40) homolog, subfamily C, member 12
+DNAJC12	uc001jnb.2	Homo sapiens	DnaJ (Hsp40) homolog, subfamily C, member 12
+PDE4B	uc008twj.1	Mus musculus	phosphodiesterase 4B, cAMP specific
+PDE4B	uc008twi.1	Mus musculus	phosphodiesterase 4B, cAMP specific
+PDE4B	uc008twk.1	Mus musculus	phosphodiesterase 4B, cAMP specific
+PDE4B	uc008twl.1	Mus musculus	phosphodiesterase 4B, cAMP specific
+PDE4B	uc008twm.1	Mus musculus	phosphodiesterase 4B, cAMP specific
+PDE4B	uc001dco.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+PDE4B	uc001dcp.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+PDE4B	uc001dcq.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+PDE4B	uc009war.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+PDE4B	uc009was.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+PDE4B	uc001dcn.2	Homo sapiens	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)
+RBMS3	uc009ryy.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009ryv.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009rzc.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009ryx.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009ryw.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009rzb.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009rzd.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009rza.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc009ryz.1	Mus musculus	RNA binding motif, single stranded interacting protein
+RBMS3	uc003cek.2	Homo sapiens	RNA binding motif, single stranded interacting protein
+RBMS3	uc010hfr.2	Homo sapiens	RNA binding motif, single stranded interacting protein
+RBMS3	uc003cel.2	Homo sapiens	RNA binding motif, single stranded interacting protein
+RBMS3	uc003cem.2	Homo sapiens	RNA binding motif, single stranded interacting protein
+RBMS3	uc010hfq.2	Homo sapiens	RNA binding motif, single stranded interacting protein
+UBASH3A	uc010gpc.2	Homo sapiens	similar to ubiquitin associated and SH3 domain containing, A; ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc002zbf.2	Homo sapiens	similar to ubiquitin associated and SH3 domain containing, A; ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc010gpe.2	Homo sapiens	similar to ubiquitin associated and SH3 domain containing, A; ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc002zbe.2	Homo sapiens	similar to ubiquitin associated and SH3 domain containing, A; ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc010gpd.2	Homo sapiens	similar to ubiquitin associated and SH3 domain containing, A; ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc008bur.1	Mus musculus	ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc008but.1	Mus musculus	ubiquitin associated and SH3 domain containing, A
+UBASH3A	uc008bus.1	Mus musculus	ubiquitin associated and SH3 domain containing, A
+ASB2	uc001ycc.1	Homo sapiens	ankyrin repeat and SOCS box-containing 2
+ASB2	uc001ycd.2	Homo sapiens	ankyrin repeat and SOCS box-containing 2
+ASB2	uc001yce.1	Homo sapiens	ankyrin repeat and SOCS box-containing 2
+ASB2	uc001ycb.1	Homo sapiens	ankyrin repeat and SOCS box-containing 2
+ASB2	uc007ovd.1	Mus musculus	ankyrin repeat and SOCS box-containing 2
+ASB2	uc007ovc.1	Mus musculus	ankyrin repeat and SOCS box-containing 2
+ASB2	uc007ove.1	Mus musculus	ankyrin repeat and SOCS box-containing 2
+HTR2B	uc010fxv.2	Homo sapiens	5-hydroxytryptamine (serotonin) receptor 2B
+HTR2B	uc002vro.2	Homo sapiens	5-hydroxytryptamine (serotonin) receptor 2B
+HTR2B	uc007buz.1	Mus musculus	5-hydroxytryptamine (serotonin) receptor 2B
+RAB27B	uc002lfr.2	Homo sapiens	RAB27B, member RAS oncogene family
+RAB27B	uc008fnz.1	Mus musculus	RAB27b, member RAS oncogene family
+RAB27B	uc008foa.1	Mus musculus	RAB27b, member RAS oncogene family
+DUSP6	uc001taz.2	Homo sapiens	dual specificity phosphatase 6
+DUSP6	uc001tay.2	Homo sapiens	dual specificity phosphatase 6
+DUSP6	uc007gxk.1	Mus musculus	dual specificity phosphatase 6
+PHLDA1	uc001sxu.2	Homo sapiens	pleckstrin homology-like domain, family A, member 1
+PHLDA1	uc007haf.1	Mus musculus	pleckstrin homology-like domain, family A, member 1
